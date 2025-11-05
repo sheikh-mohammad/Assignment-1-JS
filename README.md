@@ -7,8 +7,8 @@ This repository contains a collection of JavaScript assignments organized by cha
 ## About Me
 
 - [GitHub Profile](https://github.com/sheikh-mohammad)
-- [LinkedIn Profile](https://www.linkedin.com/in/sheikh-mohammad/)
-- [Twitter Profile](https://twitter.com/SheikhMohammadS)
+- [LinkedIn Profile](https://www.linkedin.com/in/sheikh-mohammadli/)
+- [Twitter Profile](https://x.com/sheikhmohammadx)
 
 ## Project Repository
 
