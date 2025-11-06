@@ -1,0 +1,11 @@
+var value;
+document.write(`Value after variable declaration is ${value} <br/>`);
+value = 5;
+document.write(`Initial Value: ${value} <br/>`);
+value++;
+document.write(`Value after increment is: ${value} <br/>`);
+value = value + 7;
+document.write(`Value after addition is: ${value} <br/>`);
+value--;
+document.write(`Value after decrement is: ${value} <br/>`);
+document.write(`The remainder is: ${value % 3}`);
