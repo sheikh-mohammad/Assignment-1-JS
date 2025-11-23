@@ -102,24 +102,8 @@ You can run any question by opening its `index.html` directly in your browser.
 - **Course**: Saylani Mass IT Training Program - Techno Kids Batch 7
 - **Topic**: JavaScript - Chapter 2: Variables for Strings
 
-## Contributing
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amendment`
-3. Make your changes
-4. Commit your changes: `git commit -m 'Description of the change'`
-5. Push to your branch: `git push origin feature/amendment`
-6. Open a pull request
-
-## Issues
-If you find a typo, buggy behavior, or have an improvement idea, please open an Issue with:
-- Clear description of the problem
-- Steps to reproduce (if applicable)
-- Suggested fix or screenshot
-
-## Roadmap (Ideas)
-- Add expected outputs in comments for each `script.js`
-- Add a combined `index.html` that links to all questions
-- Include simple tests for string operations
+## Assignment Notice
+This is a personal assignment for the Saylani Mass IT Training Program. No contributions from external parties are allowed.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](../../LICENSE) file for details.
@@ -135,7 +119,7 @@ You can add badges (optional) to enhance the GitHub README. Example:
 [![Live Server Recommended](https://img.shields.io/badge/Live%20Server-Recommended-00bcd4)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## Support
-If you encounter any issues or have questions about the exercises, please open an issue in the repository or contact your instructor.
+If you encounter any issues or have questions about the exercises, please contact your instructor.
 
 ---
 
