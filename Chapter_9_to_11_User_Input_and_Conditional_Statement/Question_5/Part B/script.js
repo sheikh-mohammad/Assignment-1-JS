@@ -6,4 +6,4 @@ if (b++ === 83) {
 // Output:
 // 
 
-// Reason: This script produces np output because b++ is post-increment and post-increment means first use and then update. That's why the condition becomes false.
+// Reason: This script produces no output because b++ is post-increment and post-increment means first use and then update. That's why the condition becomes false.
