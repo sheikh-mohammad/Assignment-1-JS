@@ -56,13 +56,8 @@ This project is licensed under the MIT License - see the [LICENSE](../../LICENSE
 Saylani Mass IT Training Program
 Techno Kids Batch 7
 
-## Contributing
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amendment`
-3. Make your changes
-4. Commit your changes: `git commit -m 'Description of the change'`
-5. Push to your branch: `git push origin feature/amendment`
-6. Open a pull request
+## Assignment Notice
+This is a personal assignment for the Saylani Mass IT Training Program. No contributions from external parties are allowed.
 
 ## Support
-If you encounter any issues or have questions about the exercises, please open an issue in the repository or contact your instructor.
+If you encounter any issues or have questions about the exercises, please contact your instructor.
