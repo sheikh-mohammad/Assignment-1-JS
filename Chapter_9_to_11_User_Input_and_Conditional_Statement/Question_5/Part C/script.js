@@ -8,6 +8,9 @@ if (c === 13){
     if (++c < 14){
         alert("condition 3 is true");
         }
+        if(c === 14){
+            alert("condition 4 is true");
+            }
 
 // Output:
 //
